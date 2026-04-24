@@ -30,3 +30,4 @@ Real-Time Insights and Alerts to Business_Users
 # Key learnings :
 - Implemented all above steps in a sturctured manner
 - Maintained complete folder structures as in Industry we do not make projects in notebook only, also it is very much needed for weekly training pipeline, retraining, performence monitoring
+- Whenever we start a project work in industry, we start it with a notebook and then we start applying EDA, feature engineering, models etc in different ways. After that, as the processes are being completed and following the way we get success, we do script them and save them in proper folder structer
