@@ -14,7 +14,7 @@ Invoice Level Aggregation
 # EDA and Analysis :
 - Cost patterns
 - Risk Behaviour
-- T-tests
+- T-tests (This will help me check if our predictions are actually significant or not)
 # Modeling :
 - Freight Cost Prediction (Regression Model)
 - Invoice Risk Flagging (Classification Model)
@@ -25,3 +25,8 @@ Invoice Level Aggregation
 .pkl Files
 # Streamlit Application :
 Real-Time Insights and Alerts to Business_Users
+(Later, I can deploy it to the cloud or create a FastAPI link for it too)
+
+# Key learnings :
+- Implemented all above steps in a sturctured manner
+- Maintained complete folder structures as in Industry we do not make projects in notebook only, also it is very much needed for weekly training pipeline, retraining, performence monitoring
